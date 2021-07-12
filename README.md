@@ -4,11 +4,11 @@
 
 
 
-:professional clothing students_Website: Professional Clothing
-:professional clothing students_ENV: Staging
-:professional clothing students_URL: http://asalbug.it.pointpark.edu/
-:professional clothing students_STATUS: OFFLINE
-:professional clothing students_VERSION: 0.1
+:professionalclothingstudents_Website: Professional Clothing
+:professionalclothingstudents_ENV: Staging
+:professionalclothingstudents_URL: http://asalbug.it.pointpark.edu/
+:professionalclothingstudents_STATUS: OFFLINE
+:professionalclothingstudents_VERSION: 0.1
 
 # What is professional clothing for students?
 The website is professional attire for students that anyone can buy.
@@ -32,7 +32,7 @@ It's an native HTML website that can be accessed through any mobile browser or r
 [options="header", cols="^,<,<s,<,>m"]
 |==========================
 App,Location,Environment,URL,Status,Version
-`{professional clothing students_Website}`,`{professional clothing students_ENV}`,`{professional clothing students_URL}`,`{professional clothing students_STATUS}`,`{professional clothing students_VERSION}`
+`{professionalclothingstudents_Website}`,`{professionalclothingstudents_ENV}`,`{professionalclothingstudents_URL}`,`{professionalclothingstudents_STATUS}`,`{professionalclothingstudents_VERSION}`
 |==========================
 
 
