@@ -1,6 +1,8 @@
 # Pizza-Tracker
 #Advance Programming Pizza Project
 
+image::pizzalogo.png[alt=logo,width=250px][orientation=portrait]
+
 
 
 :PizzaTracker_Website: PizzaTracker
@@ -9,20 +11,25 @@
 :PizzaTracker_STATUS: OFFLINE
 :PizzaTracker_VERSION: 0.1
 
-# What is professional clothing for students?
-The website is professional attire for students that anyone can buy.
+# What is the Pizza Tracker?
+Website to order pizza with live time tracker.
 
-# What OS does professional clothing for students on?
+# What OS does Pizza Tracker Reside on?
 It's an native HTML website that can be accessed through any mobile browser or regular web browser.
 
 
-# What Enviorment was the App Developed in?
+# What Enviorment was the App was the App Developed in?
  Github
  Visual Studio
- Putty 
+ notepad
 
 
 
+# What Programming Languages were used?
+HTML
+CSS
+JavaScript
+Jquery
 
 
 ## Application Environment Details
@@ -33,6 +40,12 @@ It's an native HTML website that can be accessed through any mobile browser or r
 App,Location,Environment,URL,Status,Version
 `{PizzaTracker_Website}`,`{PizzaTracker_ENV}`,`{PizzaTracker_URL}`,`{PizzaTracker_STATUS}`,`{PizzaTracker_VERSION}`
 |==========================
+
+##GitHub Process Strategy 
+
+
+image::Github-process.JPG[alt=diagram,width=550px][orientation=portrait]
+
 
 
 
