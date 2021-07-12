@@ -1,6 +1,6 @@
 # CMPS480
-#Senior Project
-#professional clothing for students
+# Senior Project
+# professional clothing for students
 
 
 
