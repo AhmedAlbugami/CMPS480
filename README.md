@@ -32,8 +32,9 @@ It's an native HTML website that can be accessed through any mobile browser or r
 [options="header", cols="^,<,<s,<,>m"]
 |==========================
 App,Location,Environment,URL,Status,Version
-`{professional clothing for students_Website}`,`{professional clothing for students_ENV}`,`{professional clothing for students_URL}`,`{professional clothing for students_STATUS}`,`{professional clothing for students_VERSION}`
+`{PizzaTracker_Website}`,`{PizzaTracker_ENV}`,`{PizzaTracker_URL}`,`{PizzaTracker_STATUS}`,`{PizzaTracker_VERSION}`
 |==========================
+
 
 ##GitHub Process Strategy 
 
