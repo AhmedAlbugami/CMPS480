@@ -4,11 +4,11 @@
 
 
 
-:professional clothing for students_Website: Professional Clothing
-:professional clothing for students_ENV: Staging
-:professional clothing for students_URL: http://asalbug.it.pointpark.edu/
-:professional clothing for students_STATUS: OFFLINE
-:professional clothing for students_VERSION: 0.1
+: professional clothing for students_Website: Professional Clothing
+: professional clothing for students_ENV: Staging
+: professional clothing for students_URL: http://asalbug.it.pointpark.edu/
+: professional clothing for students_STATUS: OFFLINE
+: professional clothing for students_VERSION: 0.1
 
 # What is professional clothing for students?
 The website is professional attire for students that anyone can buy.
