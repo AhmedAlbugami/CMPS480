@@ -1,7 +1,5 @@
 # Pizza-Tracker
-# Senior Project
-# professional clothing for students
-
+#Advance Programming Pizza Project
 
 
 
@@ -37,5 +35,5 @@ App,Location,Environment,URL,Status,Version
 |==========================
 
 
-##GitHub Process Strategy 
+
 
